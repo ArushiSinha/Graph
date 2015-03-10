@@ -1,0 +1,56 @@
+.main{
+
+	width:100%;
+}
+.leftGraph{
+	width:49%;
+	float:left;
+	overflow:hidden;
+	border:1px solid white;
+}
+
+.rightGraph{
+   width:49%;
+   overflow:hidden;
+   border:1px solid white;
+
+}
+
+.mainGraphRight{
+
+
+	
+	
+}
+
+.primaryGraphRight{
+	position:relative;
+  
+	background-color:rgb(224, 154, 221);
+}
+
+.secondaryGraphRight{
+	position:relative;
+	
+	background-color:rgb(199, 37, 184);
+}
+
+.mainGraphLeft{
+
+
+	
+	
+	float: right;
+}
+
+.primaryGraphLeft{
+	position:relative;
+    float:right;
+	background-color:rgb(169, 154, 224);
+}
+
+.secondaryGraphLeft{
+	position:relative;
+	float:right;
+	background-color:rgb(146, 37, 199)
+}
